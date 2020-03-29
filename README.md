@@ -19,6 +19,7 @@
 ### 2020-03-01
 
 - [如何精简字体包](https://www.jianshu.com/p/81f2b9a75182)
+- [高效的编码：我的VS Code设置](https://mp.weixin.qq.com/s/rMvn-Zy9YgmO19FM6RJhPQ)
 
 ### 2020-03-08
 - [现代化的拷贝文字](http://www.clipboardjs.cn/)
@@ -29,3 +30,6 @@
 ### 2020-03-22
 
 - [webpack 如何解析代码模块路径](https://www.cnblogs.com/ifannie/p/9208808.html)
+
+### 2020-03-29
+- [5000字解析：前端五种跨平台技术](https://mp.weixin.qq.com/s/hNJFw3A9vDDr4vHQ6YHTIw)
