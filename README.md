@@ -36,3 +36,4 @@
 
 ### 2020-04-04
 - [React Keep Alive-一个保持组件状态并避免重复重渲染的组件](https://github.com/StructureBuilder/react-keep-alive/blob/master/README.zh-CN.md)
+- [小程序官方推出的Kbone，是如何解决Web 端和小程序同构痛点的？](https://mp.weixin.qq.com/s/OcaCg9ru94rHieTEV7wS0w)
