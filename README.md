@@ -33,3 +33,6 @@
 
 ### 2020-03-29
 - [5000字解析：前端五种跨平台技术](https://mp.weixin.qq.com/s/hNJFw3A9vDDr4vHQ6YHTIw)
+
+### 2020-04-04
+- [React Keep Alive-一个保持组件状态并避免重复重渲染的组件](https://github.com/StructureBuilder/react-keep-alive/blob/master/README.zh-CN.md)
