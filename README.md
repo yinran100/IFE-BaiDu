@@ -40,3 +40,4 @@
 
 ### 2020-04-11
 - [ES2020新增特性必知必会](https://mp.weixin.qq.com/s/cSJSDKju3JbiEKxl21L7UQ)
+- [H5页面适配 iPhoneX，就是这么简单](https://blog.csdn.net/dx18520548758/article/details/80010358)
